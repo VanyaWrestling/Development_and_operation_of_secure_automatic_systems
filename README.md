@@ -1,0 +1,2 @@
+# Development_and_operation_of_secure_automatic_systems
+Разработка и эксплуатация защищенных автоматизированных систем
