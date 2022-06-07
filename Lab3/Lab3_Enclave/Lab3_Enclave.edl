@@ -1,0 +1,6 @@
+enclave {
+    trusted {
+        /* define ECALLs here. */
+        public void foo([out, size=len]char* buf, size_t len, size_t idx);
+    };
+};
